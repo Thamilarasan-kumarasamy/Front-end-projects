@@ -1,5 +1,6 @@
 // # Front-end-projects 
 //HTML FILE
+// change image names (your img name)
 // FIRST PAGE
 <!DOCTYPE html>
 <html lang="en">
